@@ -1,0 +1,37 @@
+h1 {
+	color: deepskyblue;
+}
+h3 {
+	color: white;
+}
+h4 {
+	color: white;
+}
+img {
+	width: 400px;
+
+}
+
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background: blue;
+	padding: 50px;
+	border: solid black 5px;
+	margin: auto;
+}
+
+#span {
+	font-size: 18px;
+	margin: 50px;
+	color: white;
+}
+
+body {
+	background-image: url("http://coolcleveland.com/wp-content/uploads/2017/05/CrazyCat.jpg")
+}
+
+#hyper {
+	color: yellow;
+}
+
